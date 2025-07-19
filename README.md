@@ -8,11 +8,11 @@ This project is a dynamic JSON Schema Builder task[cite: 1]. It allows users to 
 
 ## Key Features
 
-**Dynamic Field Management:** Users can add, edit, and delete fields in real-time[cite: 15, 16, 14].
-**Nested Objects:** Supports recursively nested fields for complex data structures[cite: 17].
-**Live JSON Preview:** A side-by-side panel shows the generated JSON schema, which updates instantly with every change[cite: 18].
-**Supported Data Types:** Handles `String`, `Number`, and `Nested` types[cite: 11].
-**Built with Professional Tools:** Developed using ReactJS, Ant Design, and React Hook Form[cite: 5, 7].
+**Dynamic Field Management:** Users can add, edit, and delete fields in real-time.
+**Nested Objects:** Supports recursively nested fields for complex data structures.
+**Live JSON Preview:** A side-by-side panel shows the generated JSON schema, which updates instantly with every change.
+**Supported Data Types:** Handles `String`, `Number`, and `Nested` types.
+**Built with Professional Tools:** Developed using ReactJS, Ant Design, and React Hook Form.
 
 ---
 
