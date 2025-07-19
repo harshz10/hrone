@@ -37,3 +37,4 @@ This project is a dynamic JSON Schema Builder task[cite: 1]. It allows users to 
 The application will be available at `http://localhost:3000`.
 
  Thank you !
+Harsh Nagar 
