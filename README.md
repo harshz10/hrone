@@ -2,7 +2,7 @@
 
 This project is a dynamic JSON Schema Builder task[cite: 1]. It allows users to dynamically create, edit, delete, and nest fields to build a JSON schema.
 
-**Live Application Link:** [PASTE YOUR LIVE URL HERE]
+**Live Application Link:** https://hrone-xi.vercel.app/
 
 ---
 
